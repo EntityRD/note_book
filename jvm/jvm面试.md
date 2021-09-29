@@ -490,9 +490,9 @@ VisualVM 基于 NetBeans 平台开发，因此他一开始就具备了插件扩�
 
 > MinorGC 执行时间不到50ms； Minor GC 执行不频繁，约10秒一次； Full GC 执行时间不到1s； Full GC 执行频率不算频繁，不低于10分钟1次。这里是一般的情况 但是实际上还是根据业务来定
 
-[jsp]:img\jps.png
-[jps_-l]: img\jps_-l.png
-[jps_v]: img\jps-v.png
+[jsp]:..\img\jps.png
+[jps_-l]: ..\img\jps_-l.png
+[jps_v]: ..\img\jps-v.png
 [https://visualvm.github.io/]: https://visualvm.github.io/
 [https://visualvm.github.io/documentation.html]: https://visualvm.github.io/documentation.html
 [java_params]: https://img-blog.csdnimg.cn/img_convert/bddba4fa822162e06b9a3572e5c9c07c.png
